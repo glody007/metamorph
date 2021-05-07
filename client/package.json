@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@uiw/react-codemirror": "^3.0.6",
+    "bulma": "^0.9.2",
+    "js-interpreter": "^2.3.0",
+    "prismjs": "^1.23.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "react-scripts": "^3.3.0"
+    "react-scripts": "^3.3.0",
+    "react-simple-code-editor": "^0.11.0"
   },
   "scripts": {
     "start": "react-scripts start",

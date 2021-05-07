@@ -1,0 +1,24 @@
+
+.main {
+  background-color: #E5E5E5;
+  min-height: 90vh;
+  border: 1px solid #888585;
+}
+
+.input-zone {
+
+}
+
+.output-zone {
+
+}
+
+.output {
+  min-height: 65vh;
+  background-color: #000000;
+}
+
+.code {
+  min-height: 65vh;
+  background-color: #FFFFFF;
+}
